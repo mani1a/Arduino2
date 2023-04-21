@@ -21,11 +21,11 @@
 
 
 // speed control
-int speed_right = 60;
-int speed_left = 60;
+int speed_right = 120;
+int speed_left = 120;
 
 // Distance
-int dis = 15;
+int dis = 23;
 
 //functions
 void Stop();
